@@ -4,6 +4,7 @@ from pyspark.sql.functions import *
 from pyspark.sql.types import *
 from ast import literal_eval
 from delta.tables import *
+from delta import *
 
 # COMMAND ----------
 
